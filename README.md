@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on projects envolving the areas of data science, machine learning, big data and programming languages
+- 👯 I’m looking to collaborate on projects envolving data science, machine learning, big data and programming languages
 
 <div align="center">
   <a href="https://github.com/beatriz-lafuente">
