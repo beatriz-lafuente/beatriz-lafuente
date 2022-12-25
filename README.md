@@ -1,4 +1,9 @@
 ## Oiii! Eu sou a Beatriz 👋
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Data Science
+- 👯 I’m looking to collaborate on projects envolving the areas of data science, machine learning, big data and programming languages
+
 <div align="center">
   <a href="https://github.com/beatriz-lafuente">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatriz-lafuente&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -25,16 +30,3 @@
   ![Snake animation](https://github.com/beatriz-lafuente/beatriz-lafuente/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-<!--
-**
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: contact me via email beatriz.fuente.santos@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
