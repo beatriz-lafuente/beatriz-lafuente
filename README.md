@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Beatriz 👋
+## Olá! I'm Beatriz 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Data Science
