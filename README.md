@@ -1,8 +1,8 @@
-## Olá! I'm Beatriz 👋
+## Oiii eu sou a Beatriz 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on improving my skills as a Data Scientist
 - 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on projects envolving data science, machine learning, big data and programming languages
+- 👯 I’m looking to collaborate on projects envolving Data Science, Machine Learning or Big Data
 
 <div align="center">
   <a href="https://github.com/beatriz-lafuente">
