@@ -4,7 +4,7 @@
 <div align='center'>
     <a href="https://github.com/beatriz-lafuente">
     <img src='https://user-images.githubusercontent.com/121397357/209850444-45c50335-de76-49a9-bbb0-cd96461a9641.png' height='128px' weidth'128px' target="_blank"><br>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23B836F7&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hey!;My+name+is+Bia+👋">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23B836F7&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hey!;My+name+is+Beatriz+👋">
 </div>
 
 </div>
