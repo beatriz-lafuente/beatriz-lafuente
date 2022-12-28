@@ -1,6 +1,5 @@
 ## Welcome 👋
 
-<img src="https://komarev.com/ghpvc/?username=beatriz-lafuente&color=blueviolet&style=flat">
 <div align='center'>
     <a href="https://github.com/beatriz-lafuente">
     <img src='https://user-images.githubusercontent.com/121397357/209850444-45c50335-de76-49a9-bbb0-cd96461a9641.png' height='128px' weidth'128px' target="_blank"><br>
