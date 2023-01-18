@@ -11,6 +11,8 @@
 - 🔭 I’m currently working on improving my skills as a Data Scientist
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on projects envolving Data Science, Machine Learning or Big Data
+
+<img align="center" alt="Bia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
 <div> 
   <a href="https://instagram.com/bialafuente" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
