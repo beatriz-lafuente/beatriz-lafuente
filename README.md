@@ -8,8 +8,7 @@
 
 </div>
 
-- 🔭 I’m currently working on improving my skills as a Data Scientist
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently attending a Master's in Data Science
 - 👯 I’m looking to collaborate on projects envolving Data Science, Machine Learning or Big Data
 
 <img align="center" alt="Bia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
