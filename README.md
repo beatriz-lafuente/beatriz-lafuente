@@ -1,7 +1,7 @@
 ## Welcome👋
 
-- 🌱 I’m currently attending a Master's in Data Science
-- 👯 I’m looking to collaborate on projects envolving Data Science, Machine Learning or Bioinformatics.
+- 🌱 Currently attending a Master's in Data Science.
+- 👯 Looking to collaborate on projects envolving Data Science and AI.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatriz-lafuente&theme=midnight-purple&show_icons=true)
 
