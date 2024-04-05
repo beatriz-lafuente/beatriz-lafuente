@@ -21,7 +21,8 @@
 </div>
  
 <div align='center'>
-  
-  ![Snake animation](https://github.com/beatriz-lafuente/beatriz-lafuente/blob/output/github-contribution-grid-snake.svg)
-  
+
+ ![snake gif](https://github.com/beatriz-lafuente/beatriz-lafuente/blob/output/github-contribution-grid-snake.gif)
+ 
 </div>
+
