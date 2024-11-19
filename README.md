@@ -1,9 +1,9 @@
 ## Welcome👋
 
-- 🔭 I’m currently working on a Web App for Data Analysis.
-- 🌱 I'm currently learning Data Science.
-- 👯 Looking to collaborate on projects envolving Machine Learning and Deep Learning.
-- 🤔 I’m looking to improve my skills in Cybersecurity.
+- 🔭 I’m currently working as a Data Analyst at EDP.
+- 🌱 Academic background in Bioinformatics and Data Science.
+- 👯 Looking to collaborate on projects envolving Machine Learning.
+- 🤔 Looking to improve my skills in Cybersecurity.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatriz-lafuente&theme=dracula&show_icons=true)
 
