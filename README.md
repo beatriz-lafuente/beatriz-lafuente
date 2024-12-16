@@ -1,6 +1,6 @@
 ## Welcome👋
 
-- 🔭 I’m currently working as a Data Analyst at EDP.
+- 🔭 I’m currently working as a Data Analyst.
 - 🌱 Academic background in Bioinformatics and Data Science.
 - 👯 Looking to collaborate on projects envolving Machine Learning.
 - 🤔 Looking to improve my skills in Cybersecurity.
