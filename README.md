@@ -1,9 +1,8 @@
 ## Welcome👋
 
-- 🔭 I’m currently working as a Data Analyst.
-- 🌱 Academic background in Bioinformatics and Data Science.
-- 👯 Looking to collaborate on projects envolving Machine Learning.
-- 🤔 Looking to improve my skills in Cybersecurity.
+- 🌱 Academic background in Computacional Biology and Data Science.
+- 👯 Looking to collaborate on projects envolving Bioinformatics and Machine Learning.
+- 🤔 Improving my skills in Hacking.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatriz-lafuente&theme=dracula&show_icons=true)
 
